@@ -124,9 +124,57 @@ export default function Pricing() {
                 Pour les enseignants du primaire souhaitant optimiser leur
                 notation
               </p>
-              <div className="mt-6">
-                <p className="text-5xl font-extrabold text-gray-900">199 DH</p>
-                <p className="mt-1 text-sm text-gray-500">par an</p>
+
+              {/* Updated pricing for multiple devices */}
+              <div className="mt-6 space-y-5">
+                <div className="p-4 bg-gray-50 rounded-lg border border-gray-100">
+                  <div className="flex items-center justify-between">
+                    <span className="text-gray-900 font-medium">
+                      1 appareil
+                    </span>
+                    <span className="text-2xl font-bold text-indigo-600">
+                      50 DH
+                    </span>
+                  </div>
+                </div>
+
+                <div className="p-4 bg-indigo-50 rounded-lg border border-indigo-100">
+                  <div className="flex items-center justify-between">
+                    <span className="text-gray-900 font-medium">
+                      2 appareils
+                    </span>
+                    <div className="text-right">
+                      <span className="text-2xl font-bold text-indigo-600">
+                        80 DH
+                      </span>
+                      <p className="text-xs text-indigo-600 mt-1">
+                        <span>
+                          (<strike>100 DH</strike>)
+                        </span>{" "}
+                        Économisez 20 DH{" "}
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="p-4 bg-indigo-50 rounded-lg border border-indigo-100">
+                  <div className="flex items-center justify-between">
+                    <span className="text-gray-900 font-medium">
+                      3 appareils
+                    </span>
+                    <div className="text-right">
+                      <span className="text-2xl font-bold text-indigo-600">
+                        120 DH
+                      </span>
+                      <p className="text-xs text-indigo-600 mt-1">
+                        <span>
+                          (<strike>150 DH</strike>)
+                        </span>{" "}
+                        Économisez 30 DH
+                      </p>
+                    </div>
+                  </div>
+                </div>
               </div>
 
               <ul className="mt-6 space-y-4">
@@ -343,10 +391,10 @@ export default function Pricing() {
                 Puis-je utiliser VoxMark sur plusieurs ordinateurs ?
               </h4>
               <p className="text-gray-500">
-                La licence standard est valable pour un seul ordinateur. Pour
-                une utilisation sur plusieurs postes, nous proposons des
-                licences multi-postes avec des tarifs dégressifs. Contactez-nous
-                pour plus d'informations.
+                Oui, nous proposons des licences pour 1, 2 ou 3 appareils avec
+                des tarifs dégressifs. Pour plus de 3 appareils ou pour les
+                besoins spécifiques d'un établissement, contactez-nous pour une
+                offre personnalisée.
               </p>
             </div>
           </div>
