@@ -45,20 +45,6 @@ export default function Features() {
                   saisies dans Excel avec une précision remarquable, même dans
                   les environnements bruyants.
                 </p>
-                <div className="mt-4 flex items-center text-primary-600 opacity-0 group-hover:opacity-100 transition-opacity">
-                  <span className="text-sm font-medium">En savoir plus</span>
-                  <svg
-                    className="ml-2 w-4 h-4"
-                    viewBox="0 0 20 20"
-                    fill="currentColor"
-                  >
-                    <path
-                      fillRule="evenodd"
-                      d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
-                </div>
               </div>
             </div>
 
@@ -89,20 +75,6 @@ export default function Features() {
                   évidence visuelle. Repérez immédiatement les erreurs et
                   corrigez-les par simple commande vocale.
                 </p>
-                <div className="mt-4 flex items-center text-primary-600 opacity-0 group-hover:opacity-100 transition-opacity">
-                  <span className="text-sm font-medium">En savoir plus</span>
-                  <svg
-                    className="ml-2 w-4 h-4"
-                    viewBox="0 0 20 20"
-                    fill="currentColor"
-                  >
-                    <path
-                      fillRule="evenodd"
-                      d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
-                </div>
               </div>
             </div>
 
@@ -133,20 +105,6 @@ export default function Features() {
                   Un flux de travail optimisé pour une productivité maximale et
                   une réduction significative du temps de saisie.
                 </p>
-                <div className="mt-4 flex items-center text-primary-600 opacity-0 group-hover:opacity-100 transition-opacity">
-                  <span className="text-sm font-medium">En savoir plus</span>
-                  <svg
-                    className="ml-2 w-4 h-4"
-                    viewBox="0 0 20 20"
-                    fill="currentColor"
-                  >
-                    <path
-                      fillRule="evenodd"
-                      d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
-                </div>
               </div>
             </div>
 
@@ -177,20 +135,6 @@ export default function Features() {
                   classe. Obtenez des analyses précises et des visualisations
                   claires pour suivre la progression des élèves.
                 </p>
-                <div className="mt-4 flex items-center text-primary-600 opacity-0 group-hover:opacity-100 transition-opacity">
-                  <span className="text-sm font-medium">En savoir plus</span>
-                  <svg
-                    className="ml-2 w-4 h-4"
-                    viewBox="0 0 20 20"
-                    fill="currentColor"
-                  >
-                    <path
-                      fillRule="evenodd"
-                      d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
-                </div>
               </div>
             </div>
 
@@ -221,20 +165,6 @@ export default function Features() {
                   fonctionne localement sur votre ordinateur, garantissant la
                   confidentialité totale des informations des élèves.
                 </p>
-                <div className="mt-4 flex items-center text-primary-600 opacity-0 group-hover:opacity-100 transition-opacity">
-                  <span className="text-sm font-medium">En savoir plus</span>
-                  <svg
-                    className="ml-2 w-4 h-4"
-                    viewBox="0 0 20 20"
-                    fill="currentColor"
-                  >
-                    <path
-                      fillRule="evenodd"
-                      d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
-                </div>
               </div>
             </div>
 
@@ -265,20 +195,6 @@ export default function Features() {
                   VoxMark vous permet de vous concentrer sur l'essentiel :
                   l'enseignement et l'accompagnement de vos élèves.
                 </p>
-                <div className="mt-4 flex items-center text-primary-600 opacity-0 group-hover:opacity-100 transition-opacity">
-                  <span className="text-sm font-medium">En savoir plus</span>
-                  <svg
-                    className="ml-2 w-4 h-4"
-                    viewBox="0 0 20 20"
-                    fill="currentColor"
-                  >
-                    <path
-                      fillRule="evenodd"
-                      d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
-                </div>
               </div>
             </div>
           </div>
@@ -305,7 +221,7 @@ export default function Features() {
               </svg>
             </a>
             <p className="mt-4 text-sm text-gray-500">
-              Période d'essai de 30 jours sans engagement
+              Période d'essai de 7 jours sans engagement
             </p>
           </div>
         </div>

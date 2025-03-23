@@ -7,7 +7,7 @@ import Features from "@/components/Features";
 import Testimonials from "@/components/Testimonials";
 import Pricing from "@/components/Pricing";
 import HowItWorks from "@/components/HowItWorks";
-import Telechargement from "@/components/Telechargement";
+// import Telechargement from "@/components/Telechargement";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 
@@ -52,7 +52,7 @@ export default function Home() {
       <HowItWorks />
       <Testimonials />
       <Pricing />
-      <Telechargement />
+      {/* <Telechargement /> */}
       <Contact />
       <Footer />
     </main>

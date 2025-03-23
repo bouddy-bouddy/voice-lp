@@ -42,7 +42,7 @@ export default function HowItWorks() {
                     Installation
                   </h3>
                   <p className="mt-4 text-gray-500 text-center">
-                    Téléchargez Grade Voice depuis le Microsoft Store et activez
+                    Téléchargez VoxMark depuis le Microsoft Store et activez
                     votre licence en quelques clics.
                   </p>
                   <ul className="mt-6 space-y-3 text-sm text-gray-500">
